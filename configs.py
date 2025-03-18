@@ -34,7 +34,7 @@ __Note: I can only process one video at a time. As my server is Heroku, my healt
 
 Designed by @SupremeYoriichi
 """
-	PROGRESS = """
+    PROGRESS = """
 Percentage : {0}%
 Done ✅: {1}
 Total 🌀: {2}
