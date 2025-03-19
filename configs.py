@@ -9,7 +9,7 @@ import os
 
 class Config(object):
     #tg bot token
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7234330421:AAGifV2ifYjZAbkgPPkkaQuXSGvzDv2bj4U")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7467834179:AAEGJUMY_tpoA6-stT57sdyWI_kSv2Lhf2g")
     API_ID = int(os.environ.get("API_ID", 27190467))
     API_HASH = os.environ.get("API_HASH", "ff6bc6ad2faba520f426cf04ca7f5773")
     STREAMTAPE_API_PASS = os.environ.get("STREAMTAPE_API_PASS", "NoNeed")
